@@ -1,1 +1,2 @@
-var recipies = new Object();
+var recipies = {Talor: "Swift"}
+
