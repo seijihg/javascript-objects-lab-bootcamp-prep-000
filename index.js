@@ -1,2 +1,2 @@
-var recipies = {Talor: "Swift"}
+var recipes = {}
 
